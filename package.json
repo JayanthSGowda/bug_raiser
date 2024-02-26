@@ -1,0 +1,14 @@
+{
+  "name": "bug_raiser",
+  "version": "1.0.0",
+  "description": "A project to clear a skill test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayanth S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
